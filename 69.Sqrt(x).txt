@@ -1,0 +1,5 @@
+int mySqrt(int x){
+    int m;
+    m = sqrt(x);
+    return m;
+}
